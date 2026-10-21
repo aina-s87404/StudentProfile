@@ -17,6 +17,8 @@ public class StudentProfile {
         System.out.println("Name: Aina Hadirah");
         System.out.println("Student ID: S87404");
         System.out.println("Programme:Bachelor of Computer Science (Cloud Computing Security)");
+        System.out.println("Semester: Semester 1"); 
+        System.out.println("Favourite Language: Java");
         
         
         
